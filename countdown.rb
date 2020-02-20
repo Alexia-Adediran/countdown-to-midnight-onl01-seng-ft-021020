@@ -9,9 +9,9 @@ def countdown(number, seconds)
 end
 
 
-def countdown_with_sleep(seconds)
-  sleep seconds
-end
+# def countdown_with_sleep(seconds)
+#   sleep seconds
+# end
 
 
 countdown(10, 1)
